@@ -1,0 +1,6 @@
+@MarketAssets_HostAddress = http://localhost:5158
+
+GET {{MarketAssets_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
